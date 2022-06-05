@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/enzon19/quick-reply-meet/main/assets/logo512.png?token=GHSAT0AAAAAABMJJKTNK6NPP5FZLR5VF7QSYU5FGYQ" alt="Dicionário Bot" width="187" height="187">
+    <img align="center" src="https://raw.githubusercontent.com/enzon19/quick-reply-meet/main/assets/logo512.png" alt="Quick Reply Meet" width="187" height="187">
 </p>
 
 # Quick Reply Meet
