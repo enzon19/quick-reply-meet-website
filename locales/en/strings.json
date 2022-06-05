@@ -1,0 +1,97 @@
+{ 
+  "info": {
+    "title": "Quick Reply Meet",
+    "description": "Create shortcuts for messages usually used by you to be sent quickly on chat."
+  },
+  "header": {
+    "title": "Quick Reply Meet",
+    "install": "Install"
+  },
+  "section": {
+    "1": {
+      "title": "Get the messages ready for meetings",
+      "description": "Do you always send the same message when you enter a meeting? Tired of typing this every day? With the Quick Reply Meet extension, message shortcuts predefined by you will be added to the chat so you can send with a single click.",
+      "buttons": {
+        "install": "Install",
+        "donate": "Donate"
+      }
+    },
+    "2": {
+      "feature1": {
+        "description": "Create your own shortcuts to send later on a meeting.",
+        "image": "/assets/images/en/f1.png"
+      },
+      "feature2": {
+        "description": "Go to a meeting on Google Meet and use the buttons on the chat to send the messages.",
+        "image": "/assets/images/en/f2.png"
+      },
+      "feature3": {
+        "description": "Change what happens when you click on the buttons using the right or left mouse button.",
+        "image": "/assets/images/en/f3.png"
+      }
+    },
+    "3": {
+      "title": "FAQ",
+      "faq": [
+        {
+          "question": "What is this extension for?",
+          "answer": "With this extension, the user will create shortcuts to messages him usually send. When they enter a Google Meet meeting, he will see buttons with these pre-defined messages above the chat bar."
+        },
+        {
+          "question": "How do I add more options on the chat typing bar?",
+          "answer": "<video style=\"width: 100%;\" controls><source src=\"/assets/videosHelp/Making Messages.mp4\" type=\"video/mp4\"></video>"
+        },
+        {
+          "question": "What do you mean to edit and delete messages? Can I do this using the extension?",
+          "answer": "<b>NO!</b> Edit and delete the shortcuts of messages made on the extension. In other words, manage which messages are on top of the chat typing bar to use.<br><br><video style=\"width: 100%;\" controls><source src=\"/assets/videosHelp/Editing Messages.mp4\" type=\"video/mp4\"></video>"
+        },
+        {
+          "question": "What are those options to manage time to execution?",
+          "answer": "Before the meeting begins, you need to be accepted by the host or click one button to participate. Meanwhile, the extension should verify constantly if the meeting has already started and if the chat has already been opened to add the buttons with messages over the chat typing bar. You can change these values, in seconds, to fit better for your computer."
+        },
+        {
+          "question": "Can I be banned using this extension?",
+          "answer": "It's a good question. It isn't yet known if the use of the extension causes ban, but it's very likely not. If it caused bans, it would probably not even published on the Chrome Web Store.<b> When using the extension, you agree that in case of ban, the developer is not held responsible. Use at your own.</b>"
+        },
+        {
+          "question": "What are all the functions of the extension?",
+          "answer": "<b>Buttons on Google Meet e Personalization</b><br>• Send predefined messages using buttons on Google Meet chat;<br>• Change the position of the message list on the Google Meet chat (above or below the chat typing bar);<br>• Change buttons roundness;<br>• Change button action when clicking with the right and/or left side (send directly or not, delete or not typed content).<br><br><b>Manage message shortcuts</b><br>• Add new messages;<br>• Delete messages;<br>• Edit content of messages and their position on the list.<br><br><b>Advanced</b><br>• Change time for extension execution (time to check for the meeting starts and wait for append buttons on the chat)."
+        }
+      ]
+    },
+    "4": {
+      "title": "Install",
+      "options": [
+        {
+          "store": "Firefox Add-ons",
+          "description": "For browsers based on Firefox.",
+          "imageButton": "https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png",
+          "imageStyle": "width: 206px; height: 72px;",
+          "link": ""
+        },
+        {
+          "store": "Chrome Web Store",
+          "description": "For browsers based on Chromium. Chrome, Edge, Opera, Vivaldi, Brave and other.",
+          "imageButton": "https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png",
+          "imageStyle": "width: 238px; height: 72px; box-shadow: 0px 0px 26px -13px #17a05e;",
+          "link": ""
+        },
+        {
+          "store": "Edge Add-ons",
+          "description": "For Edge browser from Microsoft.",
+          "imageButton": "https://getbadgecdn.azureedge.net/images/English_L.png",
+          "imageStyle": "width: 200px; height: 72px;",
+          "link": ""
+        }
+      ]
+    }
+  },
+  "credits": "Developed by <a target=\"blank\" href=\"https://enzon19.bolhastudios.com\">Enzo (enzon19)<\/a>. See this project on <a target=\"blank\" href=\"https:\/\/github.com\/enzon19\/quick-reply-meet\">GitHub<\/a>. Make an donation <a target=\"blank\" href=\"https://enzon19.bolhastudios.com/#donate\">here</a>.",
+  "form": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSewvM2XKRFOyWBAFMqHRM_Uy0TdqZ8mqKq57gwOpZtdXUs5Lg/viewform?usp=sf_link"
+  },
+  "uninstall": {
+    "title": "Oh no!",
+    "description": "It's sad that you are leaving... To improve the project, could you quickly answer these questions?"
+  }
+}

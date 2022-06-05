@@ -1,0 +1,106 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Roboto", Arial, sans-serif !important;
+  user-select: none;
+  color: #202124;
+}
+
+hr {
+  margin: 0px;
+  position: sticky;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6, 
+.title {
+  font-family: "Manrope", "Roboto", Arial, sans-serif;
+  margin: 0px !important;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.appbar {
+  height: 64px;
+  line-height: 64px;
+  position: relative;
+  display: flex;
+}
+
+.appbarImage {
+  display: inline-block;
+  height: 50px;
+  margin: 7px !important;
+}
+
+p {
+  font-size: 16px;
+}
+
+.showFeatures {
+  display: grid;
+  grid-auto-columns: minmax(0, 1fr);
+  grid-auto-flow: column;
+  text-align: center;
+  overflow: visible;
+}
+
+.feature {
+  align-items: center;
+  text-align: center;
+  overflow: visible;
+  margin: 8px;
+}
+
+.featureImage{
+  overflow: visible;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 3px solid #464647;
+  box-shadow: 1px 1px 25px 5px rgba(0, 0, 0, 0.2);
+}
+
+@media screen and (max-width: 666px) {
+  .showFeatures {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 730px) {
+  #installBox > .showFeatures {
+    display: block !important;
+  }
+}
+
+.alignCenter {
+  max-width: 1200px;
+  text-align: center;
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+.blink {
+  -webkit-animation: shine 1s ease-in-out;
+  animation: shine 1s ease-in-out;  
+}
+
+@-webkit-keyframes shine {
+  0% {box-shadow: 0 0 0px #0f8c808e;}
+  50% {box-shadow: 0 0 18px #0f8c808e;}
+  100% {box-shadow: 0 0 0px #0f8c808e;}
+}
+
+@keyframes shine {
+  0% {box-shadow: 0 0 0px #0f8c808e;}
+  50% {box-shadow: 0 0 18px #0f8c808e;}
+  100% {box-shadow: 0 0 0px #0f8c808e;}
+}

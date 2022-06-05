@@ -1,0 +1,10 @@
+.mui-btn--primary {
+  background-color: #0f8c80 !important;
+}
+
+.mui-btn.mui-btn--flat.primary,
+.mui-btn.mui-btn--flat.primary:hover,
+.mui-btn.mui-btn--flat.primary:active,
+.mui-btn.mui-btn--flat.primary:focus {
+  color: #0f8c80 !important;
+}

@@ -1,0 +1,17 @@
+summary {
+  cursor: pointer;
+}
+
+details {
+  padding: 0px 8px 8px 8px;
+}
+
+.spacing {
+  padding: 0px;
+}
+
+summary,
+summary::-webkit-details-marker,
+summary::marker {
+  color: #0f8c80;
+}

@@ -1,0 +1,97 @@
+{ 
+  "info": {
+    "title": "Decoradas do Meet",
+    "description": "Crie atalhos para as mensagens usadas com frequência por você para serem enviadas rapidamente no chat."
+  },
+  "header": {
+    "title": "Decoradas do Meet",
+    "install": "Instalar"
+  },
+  "section": {
+    "1": {
+      "title": "Deixe as mensagens prontas para as reuniões",
+      "description": "Você sempre envia a mesma mensagem quando entra em uma reunião? Está cansado de digitar isso todos os dias? Com a extensão Decoradas do Meet, atalhos de mensagens pré-definidas por você vão ser adicionadas ao chat para que você possa enviar com um único clique.",
+      "buttons": {
+        "install": "Instalar",
+        "donate": "Doar"
+      }
+    },
+    "2": {
+      "feature1": {
+        "description": "Crie seus próprios atalhos para enviar mais tarde em uma reunião.",
+        "image": "/assets/images/pt/f1.png"
+      },
+      "feature2": {
+        "description": "Vá para uma chamada do Google Meet e use os botões do chat para enviar as mensagens.",
+        "image": "/assets/images/pt/f2.png"
+      },
+      "feature3": {
+        "description": "Altere o que acontece quando você clica nos botões usando o botão direito ou esquerdo do mouse.",
+        "image": "/assets/images/pt/f3.png"
+      }
+    },
+    "3": {
+      "title": "Dúvidas Frequentes",
+      "faq": [
+        {
+          "question": "Para que serve essa extensão?",
+          "answer": "Com essa extensão, o usuário vai criar atalhos para as mensagens usadas com frequência e ao entrar em uma chamada no Google Meet, ele verá botões com essas mensagens pré-definidas em cima da barra de digitação do chat."
+        },
+        {
+          "question": "Como faço para adicionar mais opções em cima da barra de digitação do chat?",
+          "answer": "<video style=\"width: 100%;\" controls><source src=\"/assets/videosHelp/Criando Mensagens.mp4\" type=\"video/mp4\"></video>"
+        },
+        {
+          "question": "Como assim editar e apagar mensagens? Dá para fazer isso usando a extensão?",
+          "answer": "<b>NÃO!</b> Editar e apagar os atalhos de mensagens feitos na extensão. Ou seja, gerenciar quais mensagens ficam em cima da barra de digitação do chat para serem usadas.<br><br><video style=\"width: 100%;\" controls><source src=\"/assets/videosHelp/Editando Mensagens.mp4\" type=\"video/mp4\"></video>"
+        },
+        {
+          "question": "O que são aquelas opções de gerenciar tempo para execução?",
+          "answer": "Antes da reunião começar, você precisa ser aceito pelo anfitrião ou clicar no botão de participar. Enquanto isso, a extensão deve verificar constante se a reunião já começou e se o chat já foi aberto para que se possa adicionar os botões com as mensagens em cima da barra de digitação do chat. Você pode alterar esses valores, em segundos, para que se adapte melhor ao seu computador."
+        },
+        {
+          "question": "Posso ser banido usando essa extensão?",
+          "answer": "É uma boa pergunta. Não se sabe ainda se o uso da extensão causa banimento, mas é bem provável que não. Se causasse banimento, ela provavelmente nem seria publicada na Chrome Web Store. <b>Ao usar a extensão, você concorda que em caso de banimento, o desenvolvedor não é responsabilizado. Use por sua conta e risco.</b>"
+        },
+        {
+          "question": "Quais são todas as funções da extensão?",
+          "answer": "<b>Botões no Google Meet e Personalização</b><br>• Enviar mensagens prontas usando botões no chat do Google Meet;<br>• Alterar a posição da lista de mensagens no chat do Google Meet (acima ou abaixo da barra de digitação do chat);<br>• Alterar arredondamento dos botões;<br>• Alterar ação do botão ao clicar com o lado direito e/ou esquerdo (Enviar direto ou não, deletar ou não conteúdo já digitado).<br><br><b>Gerenciar Atalhos de Mensagens</b><br>• Adicionar novas mensagens;<br>• Deletar mensagens;<br>• Editar conteúdo das mensagens e posição delas na lista.<br><br><b>Avançado</b><br>• Alterar tempo para execução da extensão (tempo para checar quando a reunião começou e esperar para adicionar botões no chat)."
+        }
+      ]
+    },
+    "4": {
+      "title": "Instale",
+      "options": [
+        {
+          "store": "Firefox Add-ons",
+          "description": "Para navegadores baseados no Firefox.",
+          "imageButton": "https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png",
+          "imageStyle": "width: 206px; height: 72px;",
+          "link": ""
+        },
+        {
+          "store": "Chrome Web Store",
+          "description": "Para navegadores baseados no Chromium. Chrome, Edge, Opera, Vivaldi, Brave e outros.",
+          "imageButton": "https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png",
+          "imageStyle": "width: 238px; height: 72px; box-shadow: 0px 0px 26px -13px #17a05e;",
+          "link": ""
+        },
+        {
+          "store": "Complementos do Edge",
+          "description": "Para o navegador Edge da Microsoft.",
+          "imageButton": "https://getbadgecdn.azureedge.net/images/Portuguese_Brazil_L.png",
+          "imageStyle": "width: 200px; height: 72px;",
+          "link": ""
+        }
+      ]
+    }
+  },
+  "credits": "Desenvolvido por <a target=\"blank\" href=\"https://enzon19.bolhastudios.com\">Enzo (enzon19)<\/a>. Veja esse projeto no <a target=\"blank\" href=\"https://github.com\/enzon19\/quick-reply-meet\">GitHub<\/a>. Faça uma doação <a target=\"blank\" href=\"https://enzon19.bolhastudios.com/#donate\">aqui</a>.",
+  "form": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScC-ZMrviPwh9y_th8R0D1BJflMsFe4siMJIncyxTskyyCiEw/viewform?usp=sf_link"
+  },
+  "uninstall": {
+    "title": "Poxa!",
+    "description": "Que pena que você está deixando a extensão... Para melhorar o projeto, você poderia responder rapidamente essas perguntas?"
+  }
+}
