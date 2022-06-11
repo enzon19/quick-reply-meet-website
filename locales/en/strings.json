@@ -3,6 +3,11 @@
     "title": "Quick Reply Meet",
     "description": "Create shortcuts for messages usually used by you to be sent quickly on chat."
   },
+  "og": {
+    "title": "Quick Reply Meet",
+    "description": "Create shortcuts for messages usually used by you to be sent quickly on chat.",
+    "url": "quickreplymeet.enzon19.com"
+  },
   "header": {
     "title": "Quick Reply Meet",
     "install": "Install"
