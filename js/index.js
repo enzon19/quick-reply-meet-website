@@ -4,7 +4,7 @@
 
   let language = (navigator.language || navigator.userLanguage).split('-')[0];
   if (!['pt', 'en'].includes(language)) language = 'en';
-  const strings = await $.getJSON(`/locales/${language}/strings.json`);
+  const strings = await $.getJSON(`locales/${language}/strings.json`);
 
   let newValue = `<h2 style="margin: 18px 0px !important;">${strings.section['3'].title}</h2>`;
   const faqValues = strings.section['3'].faq;
