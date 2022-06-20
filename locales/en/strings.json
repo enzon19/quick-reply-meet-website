@@ -59,7 +59,7 @@
           "answer": "It's a good question. It isn't yet known if the use of the extension causes ban, but it's very likely not. If it caused bans, it would probably not even published on the Chrome Web Store.<b> When using the extension, you agree that in case of ban, the developer is not held responsible. Use at your own.</b>"
         },
         {
-          "question": "What are all the functions of the extension?",
+          "question": "What are all the features of the extension?",
           "answer": "<b>Buttons on Google Meet e Personalization</b><br>• Send predefined messages using buttons on Google Meet chat;<br>• Change the position of the message list on the Google Meet chat (above or below the chat typing bar);<br>• Change buttons roundness;<br>• Change button action when clicking with the right and/or left side (send directly or not, delete or not typed content).<br><br><b>Manage message shortcuts</b><br>• Add new messages;<br>• Delete messages;<br>• Edit content of messages and their position on the list.<br><br><b>Advanced</b><br>• Change time for extension execution (time to check for the meeting starts and wait for append buttons on the chat)."
         }
       ]
@@ -72,21 +72,21 @@
           "description": "For browsers based on Firefox.",
           "imageButton": "https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png",
           "imageStyle": "width: 206px; height: 72px;",
-          "link": ""
+          "link": "https://addons.mozilla.org/en-US/firefox/addon/quick-reply-meet/"
         },
         {
           "store": "Chrome Web Store",
           "description": "For browsers based on Chromium. Chrome, Edge, Opera, Vivaldi, Brave and other.",
           "imageButton": "https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png",
           "imageStyle": "width: 238px; height: 72px; box-shadow: 0px 0px 26px -13px #17a05e;",
-          "link": ""
+          "link": "https://chrome.google.com/webstore/detail/quick-reply-meet/cdbjicopbakfpcehddbflbofeaeaaokk"
         },
         {
           "store": "Edge Add-ons",
           "description": "For Edge browser from Microsoft.",
           "imageButton": "https://getbadgecdn.azureedge.net/images/English_L.png",
           "imageStyle": "width: 200px; height: 72px;",
-          "link": ""
+          "link": "https://microsoftedge.microsoft.com/addons/detail/quick-reply-meet/cdbjicopbakfpcehddbflbofeaeaaokk"
         }
       ]
     }

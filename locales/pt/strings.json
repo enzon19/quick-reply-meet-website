@@ -72,21 +72,21 @@
           "description": "Para navegadores baseados no Firefox.",
           "imageButton": "https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png",
           "imageStyle": "width: 206px; height: 72px;",
-          "link": ""
+          "link": "https://addons.mozilla.org/pt-BR/firefox/addon/quick-reply-meet/"
         },
         {
           "store": "Chrome Web Store",
           "description": "Para navegadores baseados no Chromium. Chrome, Edge, Opera, Vivaldi, Brave e outros.",
           "imageButton": "https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png",
           "imageStyle": "width: 238px; height: 72px; box-shadow: 0px 0px 26px -13px #17a05e;",
-          "link": ""
+          "link": "https://chrome.google.com/webstore/detail/quick-reply-meet/cdbjicopbakfpcehddbflbofeaeaaokk"
         },
         {
           "store": "Complementos do Edge",
           "description": "Para o navegador Edge da Microsoft.",
           "imageButton": "https://getbadgecdn.azureedge.net/images/Portuguese_Brazil_L.png",
           "imageStyle": "width: 200px; height: 72px;",
-          "link": ""
+          "link": "https://microsoftedge.microsoft.com/addons/detail/quick-reply-meet/cdbjicopbakfpcehddbflbofeaeaaokk"
         }
       ]
     }
