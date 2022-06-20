@@ -1,4 +1,4 @@
-(async () => {
+$(document).ready((async () => {
   const faqBox = document.getElementById('faqBox');
   const installBox = document.getElementById('installBox');
 
@@ -33,7 +33,7 @@
   }
 
   installBox.innerHTML = newValue + "</div>";
-})();
+}));
 
 function scrollInstall() {
   const installBox = document.getElementById('installBox');
