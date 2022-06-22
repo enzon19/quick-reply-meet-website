@@ -16,13 +16,12 @@ $(document).ready((async () => {
     </details>`;
   }
 
-  faqBox.innerHTML = newValue;
-  newValue = `<h2 style="margin-bottom: 18px !important;">${strings.section['4'].title}</h2><div class="showFeatures alignCenter" style="align-items: center;">`;
+  faqBox.insertAdjacentHTML('beforeend', newValue);
 
+  newValue = `<h2 style="margin-bottom: 18px !important;">${strings.section['4'].title}</h2><div class="showFeatures alignCenter" style="align-items: center;">`;
   const installValues = strings.section['4'].options;
 
   for (let i = 0; i < installValues.length; i++) {
-    console.log(installValues[i].imageButton)
     newValue += `<div class="feature" style="min-height: 155px;">
       <a href="${installValues[i].link}" target="_blank">
         <img style="cursor: pointer; ${installValues[i].imageStyle}" src="${installValues[i].imageButton}">
@@ -32,7 +31,7 @@ $(document).ready((async () => {
     </div>`;
   }
 
-  installBox.innerHTML = newValue + "</div>";
+  installBox.insertAdjacentHTML('beforeend', newValue + "</div>");
 }));
 
 function scrollInstall() {
