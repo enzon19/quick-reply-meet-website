@@ -1,6 +1,6 @@
 $(document).ready((async () => {
-  const faqBox = document.getElementById('faqBox');
-  const installBox = document.getElementById('installBox');
+  const faqBox = document.getElementsByClassName('faqBox')[0];
+  const installBox = document.getElementsByClassName('installBox')[0];
 
   let language = (navigator.language || navigator.userLanguage).split('-')[0];
   if (!['pt', 'en'].includes(language)) language = 'en';
@@ -35,7 +35,7 @@ $(document).ready((async () => {
 }));
 
 function scrollInstall() {
-  const installBox = document.getElementById('installBox');
+  const installBox = document.getElementsByClassName('installBox')[0];
   
   installBox.scrollIntoView();
   installBox.classList.add("blink");
