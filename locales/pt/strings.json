@@ -56,7 +56,7 @@
         },
         {
           "question": "Posso ser banido usando essa extensão?",
-          "answer": "É uma boa pergunta. Não se sabe ainda se o uso da extensão causa banimento, mas é bem provável que não. Se causasse banimento, ela provavelmente nem seria publicada na Chrome Web Store. <b>Ao usar a extensão, você concorda que em caso de banimento, o desenvolvedor não é responsabilizado. Use por sua conta e risco.</b>"
+          "answer": "É uma boa pergunta. Não se sabe ainda se o uso da extensão causa banimento, mas é <b>bem provável que não</b>. Se causasse banimento, ela nem seria publicada na Chrome Web Store. <b>Ao usar a extensão, você concorda que em caso de banimento, o desenvolvedor não é responsabilizado. Use por sua conta e risco.</b>"
         },
         {
           "question": "Quais são todas as funções da extensão?",
@@ -76,17 +76,17 @@
         },
         {
           "store": "Chrome Web Store",
-          "description": "Para navegadores baseados no Chromium. Chrome, Edge, Opera, Vivaldi, Brave e outros.",
+          "description": "Para navegadores baseados em Chromium. Chrome, Edge, Opera, Vivaldi, Brave e outros.",
           "imageButton": "https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/HRs9MPufa1J1h5glNhut.png",
           "imageStyle": "width: 238px; height: 72px; box-shadow: 0px 0px 26px -13px #17a05e;",
-          "link": "https://chrome.google.com/webstore/detail/quick-reply-meet/cdbjicopbakfpcehddbflbofeaeaaokk"
+          "link": "https://chrome.google.com/webstore/detail/quick-reply-meet/dodpcgfhomjldnenagdibjcoofheocfc"
         },
         {
           "store": "Complementos do Edge",
           "description": "Para o navegador Edge da Microsoft.",
           "imageButton": "https://getbadgecdn.azureedge.net/images/Portuguese_Brazil_L.png",
           "imageStyle": "width: 200px; height: 72px;",
-          "link": "https://microsoftedge.microsoft.com/addons/detail/quick-reply-meet/cdbjicopbakfpcehddbflbofeaeaaokk"
+          "link": "https://microsoftedge.microsoft.com/addons/detail/decoradas-do-meet/lonfbmmkmojfammfcljbnelobfnhpigk"
         }
       ]
     }
